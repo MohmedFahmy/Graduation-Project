@@ -33,7 +33,7 @@ google maps & profile
 
 Installation / Run locally
 Clone the repo:
-git clone 
+git clone https://github.com/MohmedFahmy/Graduation-Project.git
 cd gift-tracker-flutter
 
 Install dependencies:
